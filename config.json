@@ -1,0 +1,6 @@
+{
+	"days" : 3,
+	"frequency" : 30,
+	"city": ["Kirov", "Moscow", "Minsk"],
+	"api_key": []
+}
